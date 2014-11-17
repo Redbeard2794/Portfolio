@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>button.png</Source>
+      <Name>button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\button.xnb</Output>
+      <Time>2014-03-05T19:21:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>label.png</Source>
+      <Name>label</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\label.xnb</Output>
+      <Time>2014-03-05T19:21:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ModernShips\biggestShipRight.png</Source>
+      <Name>ModernShips\biggestShipRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\biggestShipRight.xnb</Output>
+      <Time>2014-03-09T18:20:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>square.png</Source>
+      <Name>square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\square.xnb</Output>
+      <Time>2014-03-09T13:33:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ModernShips\2SquareUp.png</Source>
+      <Name>ModernShips\2SquareUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\2SquareUp.xnb</Output>
+      <Time>2014-03-09T17:45:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ModernShips\3SquareUp.png</Source>
+      <Name>ModernShips\3SquareUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\3SquareUp.xnb</Output>
+      <Time>2014-03-09T17:45:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ModernShips\4SquareUp.png</Source>
+      <Name>ModernShips\4SquareUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\4SquareUp.xnb</Output>
+      <Time>2014-03-09T17:45:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ModernShips\biggestShipUp.png</Source>
+      <Name>ModernShips\biggestShipUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\biggestShipUp.xnb</Output>
+      <Time>2014-03-09T17:46:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ModernShips\4SquareRight.png</Source>
+      <Name>ModernShips\4SquareRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\4SquareRight.xnb</Output>
+      <Time>2014-03-09T18:20:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ModernShips\2SquareDown.png</Source>
+      <Name>ModernShips\2SquareDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\2SquareDown.xnb</Output>
+      <Time>2014-03-12T19:52:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ModernShips\2SquareLeft.png</Source>
+      <Name>ModernShips\2SquareLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\2SquareLeft.xnb</Output>
+      <Time>2014-03-12T19:52:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ModernShips\2SquareRight.png</Source>
+      <Name>ModernShips\2SquareRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\2SquareRight.xnb</Output>
+      <Time>2014-03-12T19:52:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ModernShips\3SquareDown.png</Source>
+      <Name>ModernShips\3SquareDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\3SquareDown.xnb</Output>
+      <Time>2014-03-12T19:53:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ModernShips\3SquareLeft.png</Source>
+      <Name>ModernShips\3SquareLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\3SquareLeft.xnb</Output>
+      <Time>2014-03-12T19:53:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ModernShips\3SquareRight.png</Source>
+      <Name>ModernShips\3SquareRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\3SquareRight.xnb</Output>
+      <Time>2014-03-12T19:53:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ModernShips\4SquareDown.png</Source>
+      <Name>ModernShips\4SquareDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\4SquareDown.xnb</Output>
+      <Time>2014-03-12T19:53:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ModernShips\4SquareLeft.png</Source>
+      <Name>ModernShips\4SquareLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\4SquareLeft.xnb</Output>
+      <Time>2014-03-12T19:53:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ModernShips\biggestShipDown.png</Source>
+      <Name>ModernShips\biggestShipDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\biggestShipDown.xnb</Output>
+      <Time>2014-03-12T19:53:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ModernShips\biggestShipLeft.png</Source>
+      <Name>ModernShips\biggestShipLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\biggestShipLeft.xnb</Output>
+      <Time>2014-03-12T19:53:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2014-03-05T19:36:24+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{23BEF8D7-3F9C-42DE-A648-008FED50A978}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\Game Engineering\Battleship\Battleship\BattleshipContent\</RootDirectory>
+      <LoggerRootDirectory>F:\Game Engineering\Battleship\Battleship\Battleship\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Game Engineering\Battleship\Battleship\Battleship\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-03T12:59:53.0771329+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

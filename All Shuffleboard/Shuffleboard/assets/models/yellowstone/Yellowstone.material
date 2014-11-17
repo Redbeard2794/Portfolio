@@ -1,0 +1,58 @@
+material 1344510810_1_Color_E01
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 1.0 1.0 0.0 1.0
+      diffuse 1.0 1.0 0.0 1.0
+    }
+  }
+}
+material 1344510810_2_Color_008
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.647058823529412 0.635294117647059 0.631372549019608 1.0
+      diffuse 0.647058823529412 0.635294117647059 0.631372549019608 1.0
+      // texture size: 12.0, 12.0
+      texture_unit
+      {
+        texture 1344510810_2_1344509160_1_Stone_Granite_PinotNoir.jpg
+      }
+    }
+  }
+}
+material 1344510810_3_Color_005
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.498039215686275 0.474509803921569 0.482352941176471 1.0
+      diffuse 0.498039215686275 0.474509803921569 0.482352941176471 1.0
+      // texture size: 12.0, 6.0
+      texture_unit
+      {
+        texture 1344510810_1_1344509160_2_Stone_Moss3.jpg
+      }
+    }
+  }
+}
+material 1344510810_SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 1.0 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0 1.0
+    }
+  }
+}

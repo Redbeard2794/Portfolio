@@ -1,0 +1,10 @@
+c:\users\peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeperContent\obj\x86\Debug\zookeeperContent.contentprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\zookeeper - Start\zookeeper\zookeeperContent\obj\x86\Debug\zookeeperContent.contentprojResolveAssemblyReference.cache
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\zookeeper - Start\zookeeper - Start\zookeeper\zookeeperContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeperContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming projects etc\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeperContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jayo\Desktop\Zookeeper - Start\zookeeper\zookeeperContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeperContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeperContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeperContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeperContent\obj\x86\Debug\ResolveAssemblyReference.cache

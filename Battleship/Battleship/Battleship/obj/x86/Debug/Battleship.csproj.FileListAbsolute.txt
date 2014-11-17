@@ -1,0 +1,35 @@
+C:\Documents and Settings\controller\Desktop\Battleship\Battleship\Battleship\bin\x86\Debug\Content\button.xnb
+C:\Documents and Settings\controller\Desktop\Battleship\Battleship\Battleship\bin\x86\Debug\Content\label.xnb
+C:\Documents and Settings\controller\Desktop\Battleship\Battleship\Battleship\bin\x86\Debug\Content\font.xnb
+C:\Documents and Settings\controller\Desktop\Battleship\Battleship\Battleship\bin\x86\Debug\Battleship.exe
+C:\Documents and Settings\controller\Desktop\Battleship\Battleship\Battleship\bin\x86\Debug\Battleship.pdb
+C:\Documents and Settings\controller\Desktop\Battleship\Battleship\Battleship\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\controller\Desktop\Battleship\Battleship\Battleship\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\controller\Desktop\Battleship\Battleship\Battleship\obj\x86\Debug\Battleship.exe
+C:\Documents and Settings\controller\Desktop\Battleship\Battleship\Battleship\obj\x86\Debug\Battleship.pdb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\button.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\label.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\biggestShipRight.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\square.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\2SquareUp.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\3SquareUp.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\4SquareUp.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\biggestShipUp.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\4SquareRight.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\font.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Battleship.exe
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Battleship.pdb
+F:\Game Engineering\Battleship\Battleship\Battleship\obj\x86\Debug\Battleship.csprojResolveAssemblyReference.cache
+F:\Game Engineering\Battleship\Battleship\Battleship\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Game Engineering\Battleship\Battleship\Battleship\obj\x86\Debug\Battleship.exe
+F:\Game Engineering\Battleship\Battleship\Battleship\obj\x86\Debug\Battleship.pdb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\2SquareDown.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\2SquareLeft.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\2SquareRight.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\3SquareDown.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\3SquareLeft.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\3SquareRight.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\4SquareDown.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\4SquareLeft.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\biggestShipDown.xnb
+F:\Game Engineering\Battleship\Battleship\Battleship\bin\x86\Debug\Content\ModernShips\biggestShipLeft.xnb

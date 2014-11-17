@@ -1,0 +1,2 @@
+C:\Documents and Settings\controller\Desktop\Battleship\Battleship\BattleshipContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Game Engineering\Battleship\Battleship\BattleshipContent\obj\x86\Debug\BattleshipContent.contentprojResolveAssemblyReference.cache

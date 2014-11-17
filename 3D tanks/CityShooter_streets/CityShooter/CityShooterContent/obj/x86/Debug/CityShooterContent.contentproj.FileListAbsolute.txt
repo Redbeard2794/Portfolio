@@ -1,0 +1,6 @@
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooterContent\obj\x86\Debug\CityShooterContent.contentprojResolveAssemblyReference.cache
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooterContent\obj\x86\Debug\CityShooterContent.contentprojResolveAssemblyReference.cache
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooterContent\obj\x86\Debug\CityShooterContent.contentprojResolveAssemblyReference.cache

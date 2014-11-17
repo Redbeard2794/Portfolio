@@ -1,0 +1,147 @@
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\bin\x86\Debug\Content\building1a.xnb
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\bin\x86\Debug\Content\building2a.xnb
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\bin\x86\Debug\Content\building3.xnb
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\bin\x86\Debug\Content\building6.xnb
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\bin\x86\Debug\Content\building7.xnb
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\bin\x86\Debug\Content\building8.xnb
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\bin\x86\Debug\Content\roof1.xnb
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\bin\x86\Debug\Content\roof2.xnb
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\bin\x86\Debug\Content\roof3.xnb
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\bin\x86\Debug\Content\roof4.xnb
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\bin\x86\Debug\CityShooter.exe
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\bin\x86\Debug\CityShooter.pdb
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\obj\x86\Debug\CityShooter.exe
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\obj\x86\Debug\CityShooter.pdb
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\bin\x86\Debug\Content\cornerroad.xnb
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\bin\x86\Debug\Content\crossroad.xnb
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\bin\x86\Debug\Content\straightroad.xnb
+G:\Projects\XNA4\CityShooter\CityShooter\CityShooter\bin\x86\Debug\Content\teeroad.xnb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building1.xnb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building2.xnb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building3.xnb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building6.xnb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building7.xnb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building8.xnb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof1.xnb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof2.xnb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof3.xnb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof4.xnb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\cornerroad.xnb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\crossroad.xnb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\straightroad.xnb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\teeroad.xnb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\CityShooter.exe
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\CityShooter.pdb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\CityShooter.exe
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\CityShooter.pdb
+G:\Projects\XNA4\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\CityShooter.csprojResolveAssemblyReference.cache
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building1.xnb
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building2.xnb
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building3.xnb
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building6.xnb
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building7.xnb
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building8.xnb
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof1.xnb
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof2.xnb
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof3.xnb
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof4.xnb
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\cornerroad.xnb
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\crossroad.xnb
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\straightroad.xnb
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\teeroad.xnb
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\CityShooter.exe
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\CityShooter.pdb
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\CityShooter.csprojResolveAssemblyReference.cache
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\CityShooter.exe
+I:\KCCGD_B_Y2\3DGraphics\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\CityShooter.pdb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building1.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building2.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building3.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building6.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building7.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building8.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof1.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof2.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof3.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof4.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\cornerroad.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\crossroad.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\straightroad.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\teeroad.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\engine_diff_tex.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\turret_alt_diff_tex.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\tank.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\engine_diff_tex_0.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\turret_alt_diff_tex_0.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\CityShooter.exe
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\CityShooter.pdb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\CityShooter.exe
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\CityShooter.pdb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building1.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building2.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building3.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building6.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building7.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building8.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof1.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof2.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof3.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof4.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\cornerroad.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\crossroad.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\straightroad.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\teeroad.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\engine_diff_tex.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\turret_alt_diff_tex.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\tank.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\engine_diff_tex_0.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\turret_alt_diff_tex_0.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\CityShooter.exe
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\CityShooter.pdb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\CityShooter.exe
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\CityShooter.pdb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building1.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building2.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building3.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building6.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building7.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building8.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof1.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof2.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof3.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof4.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\cornerroad.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\crossroad.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\straightroad.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\teeroad.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\engine_diff_tex.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\turret_alt_diff_tex.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\tank.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\engine_diff_tex_0.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\turret_alt_diff_tex_0.xnb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\CityShooter.exe
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\CityShooter.pdb
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\CityShooter.csprojResolveAssemblyReference.cache
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\CityShooter.exe
+E:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\obj\x86\Debug\CityShooter.pdb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\missile.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\missile_0.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\particles_smoke.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\HUD.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\Font1.xnb
+J:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\detectSquare.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\particles_smoke.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\HUD.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\detectSquare.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\missile.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\Font1.xnb
+K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\missile_0.xnb

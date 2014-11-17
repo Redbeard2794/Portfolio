@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>ZooAnimals_strip42.png</Source>
+      <Name>ZooAnimals_strip42</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\ZooAnimals_strip42.xnb</Output>
+      <Time>2012-12-16T07:44:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>highlight.png</Source>
+      <Name>highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\highlight.xnb</Output>
+      <Time>2012-12-14T21:11:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>elephantstage.png</Source>
+      <Name>elephantstage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\elephantstage.xnb</Output>
+      <Time>2013-01-09T21:03:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>hourglass1.jpg</Source>
+      <Name>hourglass1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass1.xnb</Output>
+      <Time>2013-02-27T10:10:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>hourglass2.jpg</Source>
+      <Name>hourglass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass2.xnb</Output>
+      <Time>2013-02-27T10:10:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>hourglass3.jpg</Source>
+      <Name>hourglass3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass3.xnb</Output>
+      <Time>2013-02-27T10:10:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>hourglass4.jpg</Source>
+      <Name>hourglass4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass4.xnb</Output>
+      <Time>2013-02-27T10:10:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.jpg</Source>
+      <Name>gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Time>2013-03-06T20:06:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>coin1.jpg</Source>
+      <Name>coin1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin1.xnb</Output>
+      <Time>2013-03-07T13:47:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>coin2.jpg</Source>
+      <Name>coin2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin2.xnb</Output>
+      <Time>2013-03-07T12:13:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>coin3.jpg</Source>
+      <Name>coin3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin3.xnb</Output>
+      <Time>2013-03-07T12:14:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>coin4.jpg</Source>
+      <Name>coin4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin4.xnb</Output>
+      <Time>2013-03-07T12:15:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>coin5.jpg</Source>
+      <Name>coin5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin5.xnb</Output>
+      <Time>2013-03-07T12:16:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>levelup.jpg</Source>
+      <Name>levelup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\levelup.xnb</Output>
+      <Time>2013-03-10T15:35:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>WahWah.wav</Source>
+      <Name>WahWah</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\WahWah.xnb</Output>
+      <Time>2012-12-16T14:44:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>beep.wav</Source>
+      <Name>beep</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\beep.xnb</Output>
+      <Time>2012-12-16T16:26:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMusic.wav</Source>
+      <Name>mainMusic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\mainMusic.xnb</Output>
+      <Time>2013-03-07T14:11:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx_beep.wav</Source>
+      <Name>sfx_beep</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\sfx_beep.xnb</Output>
+      <Time>2013-03-10T17:27:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Wave2.wav</Source>
+      <Name>Wave2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\Wave2.xnb</Output>
+      <Time>2013-03-10T18:02:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>scorefont.spritefont</Source>
+      <Name>scorefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\scorefont.xnb</Output>
+      <Time>2012-12-18T12:19:38+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{9261C2FF-D818-4849-ABBF-BD36C298C46A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeperContent\</RootDirectory>
+      <LoggerRootDirectory>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-03T12:59:53.0771329+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

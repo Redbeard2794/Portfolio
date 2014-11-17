@@ -1,0 +1,58 @@
+material 1345825703_1_NumberedIceTexture
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.733333333333333 0.768627450980392 0.792156862745098 1.0
+      diffuse 0.733333333333333 0.768627450980392 0.792156862745098 1.0
+      // texture size: 285.207712877638, 644.836813334284
+      texture_unit
+      {
+        texture 1345825703_2_NumberedIceTexture.jpg
+      }
+    }
+  }
+}
+material 1345825703_2_Ice
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.780392156862745 0.815686274509804 0.83921568627451 1.0
+      diffuse 0.780392156862745 0.815686274509804 0.83921568627451 1.0
+      // texture size: 280.217687580625, 200.09294253804
+      texture_unit
+      {
+        texture 1345825703_1_Ice.jpg
+      }
+    }
+  }
+}
+material 1345825703_3_0020_Red
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 1.0 0.0 0.0 1.0
+      diffuse 1.0 0.0 0.0 1.0
+    }
+  }
+}
+material 1345825703_SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 1.0 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0 1.0
+    }
+  }
+}

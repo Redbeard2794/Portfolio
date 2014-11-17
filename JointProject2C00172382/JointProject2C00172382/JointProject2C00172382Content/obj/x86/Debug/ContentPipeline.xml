@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>fonts\SpriteFont1.spritefont</Source>
+      <Name>fonts\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\fonts\SpriteFont1.xnb</Output>
+      <Time>2013-03-26T15:30:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSprites\playerLeft1.png</Source>
+      <Name>playerSprites\playerLeft1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\playerSprites\playerLeft1.xnb</Output>
+      <Time>2013-03-26T18:16:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSprites\playerLeft2.png</Source>
+      <Name>playerSprites\playerLeft2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\playerSprites\playerLeft2.xnb</Output>
+      <Time>2013-03-26T18:20:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSprites\playerLeft3.png</Source>
+      <Name>playerSprites\playerLeft3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\playerSprites\playerLeft3.xnb</Output>
+      <Time>2013-03-26T18:22:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSprites\playerLeft4.png</Source>
+      <Name>playerSprites\playerLeft4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\playerSprites\playerLeft4.xnb</Output>
+      <Time>2013-03-26T18:23:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSprites\playerRight1.png</Source>
+      <Name>playerSprites\playerRight1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\playerSprites\playerRight1.xnb</Output>
+      <Time>2013-03-26T18:24:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSprites\playerRight2.png</Source>
+      <Name>playerSprites\playerRight2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\playerSprites\playerRight2.xnb</Output>
+      <Time>2013-03-26T18:26:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSprites\playerRight3.png</Source>
+      <Name>playerSprites\playerRight3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\playerSprites\playerRight3.xnb</Output>
+      <Time>2013-03-26T18:28:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSprites\playerRight4.png</Source>
+      <Name>playerSprites\playerRight4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\playerSprites\playerRight4.xnb</Output>
+      <Time>2013-03-26T18:29:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSprites\playerFront1.png</Source>
+      <Name>playerSprites\playerFront1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\playerSprites\playerFront1.xnb</Output>
+      <Time>2013-03-26T19:30:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSprites\playerFront2.png</Source>
+      <Name>playerSprites\playerFront2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\playerSprites\playerFront2.xnb</Output>
+      <Time>2013-03-26T19:31:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSprites\playerFront3.png</Source>
+      <Name>playerSprites\playerFront3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\playerSprites\playerFront3.xnb</Output>
+      <Time>2013-03-26T20:40:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSprites\playerBullet.png</Source>
+      <Name>playerSprites\playerBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\playerSprites\playerBullet.xnb</Output>
+      <Time>2013-03-27T14:21:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>turretSprites\enemTurretLeft.png</Source>
+      <Name>turretSprites\enemTurretLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\turretSprites\enemTurretLeft.xnb</Output>
+      <Time>2013-03-27T16:14:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSprites\playerBack1.png</Source>
+      <Name>playerSprites\playerBack1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\playerSprites\playerBack1.xnb</Output>
+      <Time>2013-03-27T18:45:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSprites\playerBack2.png</Source>
+      <Name>playerSprites\playerBack2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\playerSprites\playerBack2.xnb</Output>
+      <Time>2013-03-27T18:46:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSprites\playerBack3.png</Source>
+      <Name>playerSprites\playerBack3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\playerSprites\playerBack3.xnb</Output>
+      <Time>2013-03-27T18:48:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>turretSprites\turretBullet.png</Source>
+      <Name>turretSprites\turretBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\turretSprites\turretBullet.xnb</Output>
+      <Time>2013-03-27T19:19:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bikeEnemySprites\bikeLeft1.png</Source>
+      <Name>bikeEnemySprites\bikeLeft1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\bikeEnemySprites\bikeLeft1.xnb</Output>
+      <Time>2013-04-10T09:15:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bikeEnemySprites\bikeWheelie.png</Source>
+      <Name>bikeEnemySprites\bikeWheelie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\bikeEnemySprites\bikeWheelie.xnb</Output>
+      <Time>2013-04-21T23:14:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bikeEnemySprites\bikeRight1.png</Source>
+      <Name>bikeEnemySprites\bikeRight1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\bikeEnemySprites\bikeRight1.xnb</Output>
+      <Time>2013-04-10T09:54:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menuSprites\menuIcon.png</Source>
+      <Name>menuSprites\menuIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\menuSprites\menuIcon.xnb</Output>
+      <Time>2013-04-10T10:35:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menuSprites\backButton.png</Source>
+      <Name>menuSprites\backButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\menuSprites\backButton.xnb</Output>
+      <Time>2013-04-11T14:39:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hudAndBackgroundSprites\hud2.png</Source>
+      <Name>hudAndBackgroundSprites\hud2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\hudAndBackgroundSprites\hud2.xnb</Output>
+      <Time>2013-04-14T16:58:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hudAndBackgroundSprites\background1.jpg</Source>
+      <Name>hudAndBackgroundSprites\background1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\hudAndBackgroundSprites\background1.xnb</Output>
+      <Time>2013-04-14T18:26:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soldierSprites\soldier left.png</Source>
+      <Name>soldierSprites\soldier left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\soldierSprites\soldier left.xnb</Output>
+      <Time>2013-04-15T21:18:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soldierSprites\soldier.png</Source>
+      <Name>soldierSprites\soldier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\soldierSprites\soldier.xnb</Output>
+      <Time>2013-04-15T21:18:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soldierSprites\soldier1 left.png</Source>
+      <Name>soldierSprites\soldier1 left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\soldierSprites\soldier1 left.xnb</Output>
+      <Time>2013-04-15T21:18:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soldierSprites\soldier1.png</Source>
+      <Name>soldierSprites\soldier1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\soldierSprites\soldier1.xnb</Output>
+      <Time>2013-04-15T21:18:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soldierSprites\soldier2 left.png</Source>
+      <Name>soldierSprites\soldier2 left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\soldierSprites\soldier2 left.xnb</Output>
+      <Time>2013-04-15T21:18:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soldierSprites\soldier2.png</Source>
+      <Name>soldierSprites\soldier2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\soldierSprites\soldier2.xnb</Output>
+      <Time>2013-04-15T21:18:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soldierSprites\soldier3 left.png</Source>
+      <Name>soldierSprites\soldier3 left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\soldierSprites\soldier3 left.xnb</Output>
+      <Time>2013-04-15T21:18:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soldierSprites\soldier3.png</Source>
+      <Name>soldierSprites\soldier3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\soldierSprites\soldier3.xnb</Output>
+      <Time>2013-04-15T21:18:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soldierSprites\soldier4 left.png</Source>
+      <Name>soldierSprites\soldier4 left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\soldierSprites\soldier4 left.xnb</Output>
+      <Time>2013-04-15T21:18:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soldierSprites\soldier4.png</Source>
+      <Name>soldierSprites\soldier4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\soldierSprites\soldier4.xnb</Output>
+      <Time>2013-04-15T21:18:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soldierSprites\soldier5 left.png</Source>
+      <Name>soldierSprites\soldier5 left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\soldierSprites\soldier5 left.xnb</Output>
+      <Time>2013-04-15T21:18:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soldierSprites\soldier5.png</Source>
+      <Name>soldierSprites\soldier5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\soldierSprites\soldier5.xnb</Output>
+      <Time>2013-04-15T21:18:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soldierSprites\enemyBullet.png</Source>
+      <Name>soldierSprites\enemyBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\soldierSprites\enemyBullet.xnb</Output>
+      <Time>2013-04-16T20:13:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hostageSprites\hostage1 back.png</Source>
+      <Name>hostageSprites\hostage1 back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\hostageSprites\hostage1 back.xnb</Output>
+      <Time>2013-04-16T22:08:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hostageSprites\hostage1.png</Source>
+      <Name>hostageSprites\hostage1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\hostageSprites\hostage1.xnb</Output>
+      <Time>2013-04-16T22:08:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hostageSprites\hostage2 back.png</Source>
+      <Name>hostageSprites\hostage2 back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\hostageSprites\hostage2 back.xnb</Output>
+      <Time>2013-04-16T22:08:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hostageSprites\hostage2.png</Source>
+      <Name>hostageSprites\hostage2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\hostageSprites\hostage2.xnb</Output>
+      <Time>2013-04-16T22:08:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hostageSprites\hostage3 back.png</Source>
+      <Name>hostageSprites\hostage3 back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\hostageSprites\hostage3 back.xnb</Output>
+      <Time>2013-04-16T22:08:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hostageSprites\hostage3.png</Source>
+      <Name>hostageSprites\hostage3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\hostageSprites\hostage3.xnb</Output>
+      <Time>2013-04-16T22:08:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hostageSprites\hostage4 back.png</Source>
+      <Name>hostageSprites\hostage4 back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\hostageSprites\hostage4 back.xnb</Output>
+      <Time>2013-04-16T22:08:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hostageSprites\hostage4.png</Source>
+      <Name>hostageSprites\hostage4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\hostageSprites\hostage4.xnb</Output>
+      <Time>2013-04-16T22:08:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hostageSprites\hostage5 back.png</Source>
+      <Name>hostageSprites\hostage5 back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\hostageSprites\hostage5 back.xnb</Output>
+      <Time>2013-04-16T22:08:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hostageSprites\hostage5.png</Source>
+      <Name>hostageSprites\hostage5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\hostageSprites\hostage5.xnb</Output>
+      <Time>2013-04-16T22:08:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hostageSprites\hostage6 back.png</Source>
+      <Name>hostageSprites\hostage6 back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\hostageSprites\hostage6 back.xnb</Output>
+      <Time>2013-04-16T22:08:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hostageSprites\hostage6.png</Source>
+      <Name>hostageSprites\hostage6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\hostageSprites\hostage6.xnb</Output>
+      <Time>2013-04-16T22:08:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hudAndBackgroundSprites\gameOver.jpg</Source>
+      <Name>hudAndBackgroundSprites\gameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\hudAndBackgroundSprites\gameOver.xnb</Output>
+      <Time>2013-04-17T19:55:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bikeEnemySprites\bikeWheelieRight.png</Source>
+      <Name>bikeEnemySprites\bikeWheelieRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\bikeEnemySprites\bikeWheelieRight.xnb</Output>
+      <Time>2013-04-21T23:15:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bikeFront.png</Source>
+      <Name>bikeFront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\bikeFront.xnb</Output>
+      <Time>2013-04-19T21:25:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bikeBack.png</Source>
+      <Name>bikeBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\bikeBack.xnb</Output>
+      <Time>2013-04-19T21:25:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>background2.png</Source>
+      <Name>background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\background2.xnb</Output>
+      <Time>2013-04-20T18:50:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>background3.png</Source>
+      <Name>background3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\background3.xnb</Output>
+      <Time>2013-04-20T18:51:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\pacman_death.wav</Source>
+      <Name>sounds\pacman_death</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\sounds\pacman_death.xnb</Output>
+      <Time>2013-04-18T12:14:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\bullet.wav</Source>
+      <Name>sounds\bullet</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\sounds\bullet.xnb</Output>
+      <Time>2013-04-18T12:36:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\soldierBullet.wav</Source>
+      <Name>sounds\soldierBullet</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\sounds\soldierBullet.xnb</Output>
+      <Time>2013-04-18T13:21:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>pacman_beginning.wav</Source>
+      <Name>pacman_beginning</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\pacman_beginning.xnb</Output>
+      <Time>2013-04-18T20:39:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>winner-win.jpg</Source>
+      <Name>winner-win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\winner-win.xnb</Output>
+      <Time>2013-04-22T13:17:14+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382Content\</RootDirectory>
+      <LoggerRootDirectory>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\</LoggerRootDirectory>
+      <IntermediateDirectory>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>H:\joint project 2 all files\JointProject2C00172382\JointProject2C00172382\JointProject2C00172382\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-29T22:22:48.3996689+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

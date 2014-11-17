@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JointProject2C00172382", "JointProject2C00172382\JointProject2C00172382\JointProject2C00172382.csproj", "{A73E7A4D-F1AC-4B39-AA4A-132C91123EEA}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "JointProject2C00172382Content", "JointProject2C00172382\JointProject2C00172382Content\JointProject2C00172382Content.contentproj", "{55E17B21-8C4A-495D-A110-C478A4AB2107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A73E7A4D-F1AC-4B39-AA4A-132C91123EEA}.Debug|x86.ActiveCfg = Debug|x86
+		{A73E7A4D-F1AC-4B39-AA4A-132C91123EEA}.Debug|x86.Build.0 = Debug|x86
+		{A73E7A4D-F1AC-4B39-AA4A-132C91123EEA}.Release|x86.ActiveCfg = Release|x86
+		{A73E7A4D-F1AC-4B39-AA4A-132C91123EEA}.Release|x86.Build.0 = Release|x86
+		{55E17B21-8C4A-495D-A110-C478A4AB2107}.Debug|x86.ActiveCfg = Debug|x86
+		{55E17B21-8C4A-495D-A110-C478A4AB2107}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

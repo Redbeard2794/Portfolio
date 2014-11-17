@@ -1,0 +1,179 @@
+c:\users\peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\bin\x86\Debug\Content\ZooAnimals_strip42.xnb
+c:\users\peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\bin\x86\Debug\zookeeper.exe
+c:\users\peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\bin\x86\Debug\zookeeper.pdb
+c:\users\peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\obj\x86\Debug\zookeeper.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\obj\x86\Debug\zookeeper.exe
+c:\users\peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\obj\x86\Debug\zookeeper.pdb
+c:\users\peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\bin\x86\Debug\Content\highlight.xnb
+C:\Users\Peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\bin\x86\Debug\Content\mathsbook.xnb
+C:\Users\Peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\bin\x86\Debug\Content\WahWah.xnb
+C:\Users\Peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\bin\x86\Debug\Content\beep.xnb
+C:\Users\Peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\bin\x86\Debug\Content\ruler.xnb
+C:\Users\Peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\bin\x86\Debug\Content\scorefont.xnb
+C:\Users\Peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\bin\x86\Debug\Content\duck.xnb
+C:\Users\Peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\bin\x86\Debug\Content\horse.xnb
+C:\Users\Peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\bin\x86\Debug\Content\pig.xnb
+C:\Users\Peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\bin\x86\Debug\Content\cow.xnb
+C:\Users\Peter\documents\visual studio 2010\Projects\zookeeper\zookeeper\zookeeper\bin\x86\Debug\Content\rooster.xnb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\ZooAnimals_strip42.xnb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\highlight.xnb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\WahWah.xnb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\beep.xnb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\scorefont.xnb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.exe
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.exe
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\elephantstage.xnb
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\zookeeper - Start\zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\ZooAnimals_strip42.xnb
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\zookeeper - Start\zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\highlight.xnb
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\zookeeper - Start\zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\elephantstage.xnb
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\zookeeper - Start\zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\WahWah.xnb
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\zookeeper - Start\zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\beep.xnb
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\zookeeper - Start\zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\scorefont.xnb
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\zookeeper - Start\zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.exe
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\zookeeper - Start\zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.pdb
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\zookeeper - Start\zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\zookeeper - Start\zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\zookeeper - Start\zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.exe
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\zookeeper - Start\zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.pdb
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\ZooAnimals_strip42.xnb
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\highlight.xnb
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\elephantstage.xnb
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\WahWah.xnb
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\beep.xnb
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\scorefont.xnb
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.exe
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.pdb
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.exe
+G:\C# Programming\Exams\2012-2013\Projects\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.pdb
+F:\Programming projects etc\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\ZooAnimals_strip42.xnb
+F:\Programming projects etc\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\highlight.xnb
+F:\Programming projects etc\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\elephantstage.xnb
+F:\Programming projects etc\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\WahWah.xnb
+F:\Programming projects etc\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\beep.xnb
+F:\Programming projects etc\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\scorefont.xnb
+F:\Programming projects etc\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.exe
+F:\Programming projects etc\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.pdb
+F:\Programming projects etc\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming projects etc\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programming projects etc\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.exe
+F:\Programming projects etc\Project 8 - Zookeeper\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.pdb
+C:\Users\Jayo\Desktop\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\ZooAnimals_strip42.xnb
+C:\Users\Jayo\Desktop\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\highlight.xnb
+C:\Users\Jayo\Desktop\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\elephantstage.xnb
+C:\Users\Jayo\Desktop\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\WahWah.xnb
+C:\Users\Jayo\Desktop\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\beep.xnb
+C:\Users\Jayo\Desktop\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\scorefont.xnb
+C:\Users\Jayo\Desktop\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.exe
+C:\Users\Jayo\Desktop\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.pdb
+C:\Users\Jayo\Desktop\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jayo\Desktop\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jayo\Desktop\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.exe
+C:\Users\Jayo\Desktop\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.pdb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\ZooAnimals_strip42.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\highlight.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\elephantstage.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass1.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass2.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass3.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass4.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\WahWah.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\beep.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\scorefont.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.exe
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.pdb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.exe
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.pdb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\ZooAnimals_strip42.xnb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\highlight.xnb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\elephantstage.xnb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass1.xnb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass2.xnb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass3.xnb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass4.xnb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\WahWah.xnb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\beep.xnb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\scorefont.xnb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.exe
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.pdb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.exe
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.pdb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\gameover.xnb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin1.xnb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin2.xnb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin3.xnb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin4.xnb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin5.xnb
+F:\Programming projects etc\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\mainMusic.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin1.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin2.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin3.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin4.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin5.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\mainMusic.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\levelup.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\sfx_beep.xnb
+C:\Users\Jayo\Desktop\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\Wave2.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\ZooAnimals_strip42.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\highlight.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\elephantstage.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass1.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass2.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass3.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass4.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin1.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin2.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin3.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin4.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin5.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\levelup.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\WahWah.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\beep.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\mainMusic.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\sfx_beep.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\Wave2.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\scorefont.xnb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.exe
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.pdb
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.exe
+C:\Users\Jayo\Desktop\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.pdb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\ZooAnimals_strip42.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\highlight.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\elephantstage.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass1.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass2.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass3.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\hourglass4.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\gameover.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin1.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin2.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin3.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin4.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\coin5.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\levelup.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\WahWah.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\beep.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\mainMusic.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\sfx_beep.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\Wave2.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\Content\scorefont.xnb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.exe
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\bin\x86\Debug\zookeeper.pdb
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.exe
+F:\project8Finish\Project8C00172382(new)\Zookeeper - Start\zookeeper\zookeeper\obj\x86\Debug\zookeeper.pdb

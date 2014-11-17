@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>building1.png</Source>
+      <Name>building1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building1.xnb</Output>
+      <Time>2012-02-03T14:56:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>building2.png</Source>
+      <Name>building2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building2.xnb</Output>
+      <Time>2012-02-03T15:01:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>building3.png</Source>
+      <Name>building3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building3.xnb</Output>
+      <Time>2012-01-25T13:41:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>building6.png</Source>
+      <Name>building6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building6.xnb</Output>
+      <Time>2012-02-03T15:04:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>building7.png</Source>
+      <Name>building7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building7.xnb</Output>
+      <Time>2012-01-25T13:32:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>building8.png</Source>
+      <Name>building8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\building8.xnb</Output>
+      <Time>2012-02-03T15:03:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>roof1.png</Source>
+      <Name>roof1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof1.xnb</Output>
+      <Time>2012-01-25T13:13:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>roof2.png</Source>
+      <Name>roof2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof2.xnb</Output>
+      <Time>2012-01-25T13:16:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>roof3.png</Source>
+      <Name>roof3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof3.xnb</Output>
+      <Time>2012-01-25T13:21:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>roof4.png</Source>
+      <Name>roof4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\roof4.xnb</Output>
+      <Time>2012-01-25T13:23:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>cornerroad.png</Source>
+      <Name>cornerroad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\cornerroad.xnb</Output>
+      <Time>2012-02-06T14:39:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>crossroad.png</Source>
+      <Name>crossroad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\crossroad.xnb</Output>
+      <Time>2012-02-06T14:39:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>straightroad.png</Source>
+      <Name>straightroad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\straightroad.xnb</Output>
+      <Time>2012-02-06T14:39:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>teeroad.png</Source>
+      <Name>teeroad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\teeroad.xnb</Output>
+      <Time>2012-02-06T14:39:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>engine_diff_tex.tga</Source>
+      <Name>engine_diff_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\engine_diff_tex.xnb</Output>
+      <Time>2014-02-10T15:08:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>turret_alt_diff_tex.tga</Source>
+      <Name>turret_alt_diff_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\turret_alt_diff_tex.xnb</Output>
+      <Time>2014-02-10T15:08:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>particles_smoke.png</Source>
+      <Name>particles_smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\particles_smoke.xnb</Output>
+      <Time>2014-03-24T14:30:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD.png</Source>
+      <Name>HUD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\HUD.xnb</Output>
+      <Time>2014-04-07T16:08:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>detectSquare.png</Source>
+      <Name>detectSquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\detectSquare.xnb</Output>
+      <Time>2014-04-16T15:20:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tank.fbx</Source>
+      <Name>tank</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\tank.xnb</Output>
+      <Time>2014-02-10T15:08:22+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\tank_0.xml</Key>
+        <Value>2014-08-18T20:32:28+01:00</Value>
+      </Dependency>
+      <Request>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\engine_diff_tex_0.xnb</Request>
+      <Request>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\turret_alt_diff_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>missile.fbx</Source>
+      <Name>missile</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\missile.xnb</Output>
+      <Time>2014-03-04T18:39:32+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\missile_0.xml</Key>
+        <Value>2014-08-18T20:32:30+01:00</Value>
+      </Dependency>
+      <Request>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\missile_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Font1.spritefont</Source>
+      <Name>Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\Font1.xnb</Output>
+      <Time>2014-03-27T09:44:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tank.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\tank_0.xml</Output>
+      <Time>2014-02-10T15:08:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>engine_diff_tex.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\engine_diff_tex_0.xnb</Output>
+      <Time>2014-02-10T15:08:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>turret_alt_diff_tex.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\turret_alt_diff_tex_0.xnb</Output>
+      <Time>2014-02-10T15:08:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>missile.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\missile_0.xml</Output>
+      <Time>2014-03-04T18:39:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>missile.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\missile_0.xnb</Output>
+      <Time>2012-02-27T11:18:36+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooterContent\</RootDirectory>
+      <LoggerRootDirectory>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\</LoggerRootDirectory>
+      <IntermediateDirectory>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooterContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>K:\3D Graphics and Audio\3DtankGame\CityShooter_streets\CityShooter\CityShooter\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-02-09T17:11:48.90625+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

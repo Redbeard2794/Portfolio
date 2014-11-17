@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Player\playerTankBody.png</Source>
+      <Name>Player\playerTankBody</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb</Output>
+      <Time>2013-10-17T10:45:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>playerTurret.png</Source>
+      <Name>playerTurret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb</Output>
+      <Time>2013-10-18T13:35:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\playerTurret2.png</Source>
+      <Name>Player\playerTurret2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb</Output>
+      <Time>2013-10-18T13:55:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\shell1.png</Source>
+      <Name>Player\shell1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb</Output>
+      <Time>2013-10-20T17:08:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\field.png</Source>
+      <Name>Background\field</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb</Output>
+      <Time>2013-10-23T13:24:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Hud.png</Source>
+      <Name>Hud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb</Output>
+      <Time>2013-10-24T09:18:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\field2.png</Source>
+      <Name>Background\field2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb</Output>
+      <Time>2013-10-24T09:26:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>LifeSymbol.png</Source>
+      <Name>LifeSymbol</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb</Output>
+      <Time>2013-10-25T15:12:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ShootingEnemy\blueTank.png</Source>
+      <Name>ShootingEnemy\blueTank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb</Output>
+      <Time>2013-10-28T13:13:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Hud\miniMap1.png</Source>
+      <Name>Hud\miniMap1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb</Output>
+      <Time>2013-10-30T13:26:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Hud\hud2.png</Source>
+      <Name>Hud\hud2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb</Output>
+      <Time>2013-11-02T17:06:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ShootingEnemy\enemyShell1.png</Source>
+      <Name>ShootingEnemy\enemyShell1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb</Output>
+      <Time>2013-11-07T08:29:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>KamikazeEnemy\kamikazeTank.png</Source>
+      <Name>KamikazeEnemy\kamikazeTank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb</Output>
+      <Time>2013-11-07T09:56:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Hud\radar1.png</Source>
+      <Name>Hud\radar1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\radar1.xnb</Output>
+      <Time>2013-11-14T08:21:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Hud\playerOnRadar.png</Source>
+      <Name>Hud\playerOnRadar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\playerOnRadar.xnb</Output>
+      <Time>2013-11-20T19:01:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp\RepairSymbol.png</Source>
+      <Name>PowerUp\RepairSymbol</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol.xnb</Output>
+      <Time>2013-11-14T09:42:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp\RepairSymbol2.png</Source>
+      <Name>PowerUp\RepairSymbol2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol2.xnb</Output>
+      <Time>2013-11-16T11:47:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion1.png</Source>
+      <Name>ExplosionSequence\explosion1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion1.xnb</Output>
+      <Time>2013-11-16T16:22:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion10.png</Source>
+      <Name>ExplosionSequence\explosion10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion10.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion11.png</Source>
+      <Name>ExplosionSequence\explosion11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion11.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion12.png</Source>
+      <Name>ExplosionSequence\explosion12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion12.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion13.png</Source>
+      <Name>ExplosionSequence\explosion13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion13.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion14.png</Source>
+      <Name>ExplosionSequence\explosion14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion14.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion15.png</Source>
+      <Name>ExplosionSequence\explosion15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion15.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion16.png</Source>
+      <Name>ExplosionSequence\explosion16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion16.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion17.png</Source>
+      <Name>ExplosionSequence\explosion17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion17.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion18.png</Source>
+      <Name>ExplosionSequence\explosion18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion18.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion19.png</Source>
+      <Name>ExplosionSequence\explosion19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion19.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion2.png</Source>
+      <Name>ExplosionSequence\explosion2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion2.xnb</Output>
+      <Time>2013-11-16T16:22:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion20.png</Source>
+      <Name>ExplosionSequence\explosion20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion20.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion21.png</Source>
+      <Name>ExplosionSequence\explosion21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion21.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion22.png</Source>
+      <Name>ExplosionSequence\explosion22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion22.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion23.png</Source>
+      <Name>ExplosionSequence\explosion23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion23.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion24.png</Source>
+      <Name>ExplosionSequence\explosion24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion24.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion3.png</Source>
+      <Name>ExplosionSequence\explosion3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion3.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion4.png</Source>
+      <Name>ExplosionSequence\explosion4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion4.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion5.png</Source>
+      <Name>ExplosionSequence\explosion5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion5.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion6.png</Source>
+      <Name>ExplosionSequence\explosion6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion6.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion7.png</Source>
+      <Name>ExplosionSequence\explosion7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion7.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion8.png</Source>
+      <Name>ExplosionSequence\explosion8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion8.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSequence\explosion9.png</Source>
+      <Name>ExplosionSequence\explosion9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion9.xnb</Output>
+      <Time>2013-11-16T16:22:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\playerOnRadar.png</Source>
+      <Name>Player\playerOnRadar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerOnRadar.xnb</Output>
+      <Time>2013-11-18T15:06:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerOnRadar2.png</Source>
+      <Name>playerOnRadar2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerOnRadar2.xnb</Output>
+      <Time>2013-11-21T08:10:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>kamikazeOnRadar.png</Source>
+      <Name>kamikazeOnRadar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\kamikazeOnRadar.xnb</Output>
+      <Time>2013-11-21T08:17:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>repairOnRadar.png</Source>
+      <Name>repairOnRadar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\repairOnRadar.xnb</Output>
+      <Time>2013-11-21T08:25:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>shootingEnemyOnRadar.png</Source>
+      <Name>shootingEnemyOnRadar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\shootingEnemyOnRadar.xnb</Output>
+      <Time>2013-11-21T08:34:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Font1.spritefont</Source>
+      <Name>Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb</Output>
+      <Time>2013-10-25T14:48:14+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTankContent\</RootDirectory>
+      <LoggerRootDirectory>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\</LoggerRootDirectory>
+      <IntermediateDirectory>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTankContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-02-09T17:11:48.90625+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

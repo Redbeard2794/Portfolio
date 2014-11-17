@@ -1,0 +1,809 @@
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.exe
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.pdb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.exe
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.pdb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.exe
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.pdb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.exe
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.pdb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion1.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion2.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion3.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion4.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion5.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion6.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion1.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion2.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion3.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion4.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion5.xnb
+G:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion6.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.csprojResolveAssemblyReference.cache
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\radar1.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\playerOnRadar.xnb
+F:\College\Subjects\3D Graphics and Audio\Robot Tank\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion1.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion2.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion3.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion4.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion5.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion6.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\radar1.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\playerOnRadar.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.exe
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.pdb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.exe
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.pdb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol2.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion1.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion10.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion11.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion12.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion13.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion14.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion15.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion16.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion17.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion18.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion19.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion2.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion20.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion21.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion22.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion23.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion24.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion3.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion4.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion5.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion6.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion7.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion8.xnb
+C:\Documents and Settings\David\Desktop\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion9.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion1.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion2.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion3.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion4.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion5.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion6.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\radar1.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\playerOnRadar.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol2.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion1.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion10.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion11.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion12.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion13.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion14.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion15.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion16.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion17.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion18.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion19.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion2.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion20.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion21.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion22.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion23.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion24.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion3.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion4.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion5.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion6.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion7.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion8.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion9.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.exe
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.pdb
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.exe
+C:\Users\Jayo\Desktop\backup9\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.pdb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion3.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion4.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion5.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion6.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\radar1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\playerOnRadar.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion10.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion11.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion12.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion13.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion14.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion15.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion16.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion17.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion18.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion19.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion20.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion21.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion22.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion23.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion24.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion3.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion4.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion5.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion6.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion7.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion8.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion9.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.exe
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.pdb
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.exe
+C:\Users\Jayo\Desktop\projectBackups\backup10\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.pdb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion3.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion4.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion5.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion6.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\radar1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\playerOnRadar.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion10.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion11.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion12.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion13.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion14.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion15.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion16.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion17.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion18.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion19.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion20.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion21.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion22.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion23.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion24.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion3.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion4.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion5.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion6.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion7.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion8.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion9.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.exe
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.pdb
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.exe
+C:\Users\Jayo\Desktop\projectBackups\backup11\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.pdb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion3.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion4.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion5.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion6.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\radar1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\playerOnRadar.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion10.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion11.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion12.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion13.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion14.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion15.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion16.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion17.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion18.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion19.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion20.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion21.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion22.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion23.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion24.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion3.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion4.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion5.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion6.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion7.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion8.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion9.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.exe
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.pdb
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.exe
+C:\Users\Jayo\Desktop\projectBackups\backup12\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.pdb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion3.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion4.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion5.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion6.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\radar1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\playerOnRadar.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion10.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion11.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion12.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion13.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion14.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion15.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion16.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion17.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion18.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion19.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion20.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion21.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion22.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion23.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion24.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion3.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion4.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion5.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion6.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion7.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion8.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion9.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.exe
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.pdb
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.exe
+C:\Users\Jayo\Desktop\projectBackups\backup13\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.pdb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.exe
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion3.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion4.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion5.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion6.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\radar1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\playerOnRadar.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion10.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion11.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion12.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion13.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion14.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion15.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion16.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion17.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion18.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion19.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion20.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion21.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion22.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion23.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion24.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion3.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion4.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion5.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion6.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion7.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion8.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion9.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.exe
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.pdb
+C:\Users\Jayo\Desktop\projectBackups\backup14\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.pdb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion3.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion4.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion5.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion\explosion6.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\radar1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\playerOnRadar.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion10.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion11.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion12.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion13.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion14.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion15.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion16.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion17.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion18.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion19.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion2.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion20.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion21.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion22.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion23.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion24.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion3.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion4.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion5.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion6.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion7.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion8.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion9.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.exe
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.pdb
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.exe
+C:\Users\Jayo\Desktop\projectBackups\backup15\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.pdb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\radar1.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\playerOnRadar.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol2.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion1.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion10.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion11.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion12.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion13.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion14.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion15.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion16.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion17.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion18.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion19.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion2.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion20.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion21.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion22.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion23.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion24.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion3.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion4.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion5.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion6.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion7.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion8.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion9.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.exe
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.pdb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.exe
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.pdb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion(delete when cleaning up)\explosion1.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion(delete when cleaning up)\explosion2.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion(delete when cleaning up)\explosion3.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion(delete when cleaning up)\explosion4.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion(delete when cleaning up)\explosion5.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion(delete when cleaning up)\explosion6.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerOnRadar.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion(delete when cleaning up)\explosion1.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion(delete when cleaning up)\explosion2.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion(delete when cleaning up)\explosion3.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion(delete when cleaning up)\explosion4.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion(delete when cleaning up)\explosion5.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Explosion(delete when cleaning up)\explosion6.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\radar1.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\playerOnRadar.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol2.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion1.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion10.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion11.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion12.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion13.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion14.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion15.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion16.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion17.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion18.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion19.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion2.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion20.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion21.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion22.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion23.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion24.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion3.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion4.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion5.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion6.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion7.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion8.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion9.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerOnRadar.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.exe
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.pdb
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.exe
+K:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.pdb
+F:\College\Subjects\3D Graphics and Audio\RobotTank17112013\RobotTank\RobotTank\RobotTank\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\radar1.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\playerOnRadar.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol2.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion1.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion10.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion11.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion12.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion13.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion14.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion15.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion16.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion17.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion18.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion19.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion2.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion20.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion21.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion22.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion23.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion24.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion3.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion4.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion5.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion6.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion7.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion8.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion9.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerOnRadar.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.exe
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.pdb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.exe
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.pdb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerOnRadar2.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\kamikazeOnRadar.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\repairOnRadar.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\shootingEnemyOnRadar.xnb
+F:\College\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\radar1.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\playerOnRadar.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol2.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion1.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion10.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion11.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion12.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion13.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion14.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion15.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion16.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion17.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion18.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion19.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion2.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion20.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion21.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion22.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion23.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion24.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion3.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion4.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion5.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion6.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion7.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion8.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion9.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerOnRadar.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerOnRadar2.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\kamikazeOnRadar.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\repairOnRadar.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\shootingEnemyOnRadar.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.exe
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.pdb
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.csprojResolveAssemblyReference.cache
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.exe
+I:\College Stuff\eBackUp\Subjects\3D Graphics and Audio\RobotTankUseThisOne\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.pdb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\radar1.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\playerOnRadar.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol2.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion1.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion10.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion11.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion12.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion13.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion14.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion15.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion16.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion17.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion18.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion19.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion2.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion20.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion21.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion22.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion23.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion24.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion3.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion4.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion5.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion6.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion7.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion8.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion9.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerOnRadar.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerOnRadar2.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\kamikazeOnRadar.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\repairOnRadar.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\shootingEnemyOnRadar.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.exe
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.pdb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.exe
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.pdb
+F:\CollegeStuff\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.csprojResolveAssemblyReference.cache
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTankBody.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerTurret.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerTurret2.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\shell1.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Background\field2.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\LifeSymbol.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\blueTank.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\miniMap1.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\hud2.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ShootingEnemy\enemyShell1.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\KamikazeEnemy\kamikazeTank.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\radar1.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Hud\playerOnRadar.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\PowerUp\RepairSymbol2.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion1.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion10.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion11.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion12.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion13.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion14.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion15.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion16.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion17.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion18.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion19.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion2.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion20.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion21.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion22.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion23.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion24.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion3.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion4.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion5.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion6.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion7.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion8.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\ExplosionSequence\explosion9.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Player\playerOnRadar.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\playerOnRadar2.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\kamikazeOnRadar.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\repairOnRadar.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\shootingEnemyOnRadar.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\Font1.xnb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.exe
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\bin\x86\Debug\RobotTank.pdb
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.exe
+K:\3D Graphics and Audio\RobotTankFinalcleaned\RobotTank\RobotTank\RobotTank\obj\x86\Debug\RobotTank.pdb

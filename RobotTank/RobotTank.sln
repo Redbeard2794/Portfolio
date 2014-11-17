@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotTank", "RobotTank\RobotTank\RobotTank.csproj", "{0A9C2744-B4A3-4F51-B460-A0645D72CA0B}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "RobotTankContent", "RobotTank\RobotTankContent\RobotTankContent.contentproj", "{23F34431-6A3A-44D4-A294-2A7AE4DFD7C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A9C2744-B4A3-4F51-B460-A0645D72CA0B}.Debug|x86.ActiveCfg = Debug|x86
+		{0A9C2744-B4A3-4F51-B460-A0645D72CA0B}.Debug|x86.Build.0 = Debug|x86
+		{0A9C2744-B4A3-4F51-B460-A0645D72CA0B}.Release|x86.ActiveCfg = Release|x86
+		{0A9C2744-B4A3-4F51-B460-A0645D72CA0B}.Release|x86.Build.0 = Release|x86
+		{23F34431-6A3A-44D4-A294-2A7AE4DFD7C8}.Debug|x86.ActiveCfg = Debug|x86
+		{23F34431-6A3A-44D4-A294-2A7AE4DFD7C8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
